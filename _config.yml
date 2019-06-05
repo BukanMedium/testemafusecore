@@ -173,7 +173,9 @@ links:
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
 #extra_html:
 extra_html: >
-    As a coder, I speek c/c++, java, c#, javascrip, python and shell. I live mostly in Windows and Linux. I love docker/devops.
+    As a coder, I speek c/c++, java, c#, javascript, python and shell. 
+    I live mostly in Windows and Linux. 
+    I love docker/devops.
     
 
 #EOF
