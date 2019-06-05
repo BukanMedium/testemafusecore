@@ -76,7 +76,7 @@ links:
   - twitter:
       name: Twitter
       show: true
-      href: https://twitter.com/YOUR_TWITTER_USERNAME
+      href: https://twitter.com/neilpangxa
       icon: fab fa-twitter
   - weibo:
       name: 微博
@@ -156,7 +156,7 @@ links:
   - blog:
       name: Blog
       show: true
-      href: http://host.domain/your_blog
+      href: https://blog.neilpang.com
       icon: fas fa-book-open
   - email:
       name: Email
