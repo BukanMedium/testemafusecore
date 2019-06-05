@@ -161,7 +161,7 @@ links:
   - email:
       name: Email
       show: true
-      href: mailto:info@byneil.com
+      href: mailto:www@neilpang.com
       icon: fas fa-envelope
   - publickey:
       name: PGP Key
